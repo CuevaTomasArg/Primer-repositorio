@@ -1,0 +1,55 @@
+section{
+    background-color: black;
+    padding: 50px 30px 20px 60px;
+    margin-left:40px;
+}
+section,article{
+    background-color: rgb(156, 221, 221);
+    width: 500px;
+    height: 500px;
+}
+section article p{
+    line-height: 40px;
+}
+.texto{
+    background-color: black;
+}
+.parrafo{
+    background-color: brown;
+}
+/* PRIMERAS PROPIEDADES */
+/* color: nos permite darle un color  la fuente (letras) 
+    Puede ser por nombre(red)
+    Hexadecimal(#FFF2DA)
+    RGB(50,212,227) (corresponde a red,greeb,blue)
+
+    Estilo lista; list-style-type: Aplicando esta propuedad y este valor, vamos a poder eliminar las bullets y los numeros
+    ejemplo::after
+        ol{list-style-type:none;}
+        ul{list-style-type:none;}
+
+Estilo texto: Cambia el formato del texto; ejemplos;
+    selector{font-style: nomal/italica} cambia el estilo
+    selector{font-weight: bold/normal} Cambia a negrita/nomal
+    selector{font-size: 20px/200%} cambia el tamaño
+    selector{font-family: "comic sans ms",sans-serif"} Dependiendo de la familya, cambia el estilo de la tipografia.
+    No todas las tipografias se ven para todos los buscadores o computadoras, por eso es que s epone la familia con distintas fuentes, cunaod no puede usar una, usa la otra
+    selector{text-align:richt/center/left} cambia a donde esta el texto
+    selector{line-height: 1.6} es un ejemplo de interlineado
+    selector{text-decoration:none/line-trhught} e suna decoracion al texto
+
+DISTINTOS TIPOS DE BACKGROUND
+backgound-color: le da color al fondo del texto 
+
+
+
+
+
+
+
+
+
+
+
+
+*/
